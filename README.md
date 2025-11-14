@@ -1,4 +1,4 @@
-# Lakner Inflation Analysis
+# Lakner Inflation Analyse
 
 Analyse der Bio-Umsatzdaten und Berechnung der impliziten Inflationsrate bezogen auf das Basisjahr 2020.
 
