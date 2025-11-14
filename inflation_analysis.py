@@ -3,6 +3,8 @@
 """
 Analyse der Bio-Umsatzdaten und Berechnung der impliziten Inflationsrate
 bezogen auf das Basisjahr 2020.
+
+MIT License - Copyright (c) 2025 Eckart Grünhagen
 """
 
 import pandas as pd
